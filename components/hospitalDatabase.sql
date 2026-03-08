@@ -87,10 +87,10 @@ CREATE TABLE `patient` (
 
 INSERT INTO `patient` (`id`, `name`, `surname`, `username`, `email`, `password`) VALUES
 (17, 'Amar', 'Sadiku', 'AmarSadiku', 'amar@gmail.com', '123'),
-(18, 'Erin', 'Marmullakaj', 'ErinM', 'erinm01@gmail.com', '123'),
-(19, 'Idriz', 'Sdi', 'S.idriz', 'idriz@gmail.com', '123'),
+(18, 'Diar', 'Marmullakaj', 'DiarM', 'diar@gmail.com', '123'),
+(19, 'Dea', 'Sdi', 'S.dea', 'deasdi@gmail.com', '123'),
 (20, 'Nina', 'Sedi', 'SediNina', 'nina@gmail.com', '123'),
-(21, 'Blend', 'Osmani', 'BlendOsmani', 'blendi@gmail.com', '123');
+(21, 'Blenda', 'Osmanaj', 'BlendaOsmanaj', 'blenda@gmail.com', '123');
 
 --
 -- Indexes for dumped tables
