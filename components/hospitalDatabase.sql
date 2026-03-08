@@ -86,7 +86,7 @@ CREATE TABLE `patient` (
 --
 
 INSERT INTO `patient` (`id`, `name`, `surname`, `username`, `email`, `password`) VALUES
-(17, 'Leart', 'Obertinca', 'Leart_O', 'leartobertinca@gmail.com', '123'),
+(17, 'Amar', 'Sadiku', 'AmarSadiku', 'amar@gmail.com', '123'),
 (18, 'Erin', 'Marmullakaj', 'ErinM', 'erinm01@gmail.com', '123'),
 (19, 'Idriz', 'Sdi', 'S.idriz', 'idriz@gmail.com', '123'),
 (20, 'Nina', 'Sedi', 'SediNina', 'nina@gmail.com', '123'),
